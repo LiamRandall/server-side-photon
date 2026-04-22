@@ -2,7 +2,7 @@
 
 A reference application demonstrating server-side image processing with WebAssembly using [wasmCloud](https://wasmcloud.com) and [photon-rs](https://github.com/silvia-odwyer/photon). With `photon-rs`, you are essentially doing pure linear algebra and matrix math disguised as image processing.
 
-All ~130 image transforms from photon-rs run server-side as Wasm components, proving that matrix math and image processing work well in the WebAssembly component model.
+All ~130 image transforms from photon-rs run server-side as Wasm components, demonstrating matrix math and image processing in the WebAssembly component model.
 
 ## Architecture
 
